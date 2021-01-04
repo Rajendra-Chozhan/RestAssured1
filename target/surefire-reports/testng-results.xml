@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="3" passed="3" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2021-01-04T17:25:45Z" name="Suite" finished-at="2021-01-04T17:25:49Z" duration-ms="3963">
+    <groups>
+    </groups>
+    <test started-at="2021-01-04T17:25:45Z" name="Test" finished-at="2021-01-04T17:25:49Z" duration-ms="3963">
+      <class name="testacases.TC_001_GET_Users">
+        <test-method signature="GET_All_Users()[pri:1, instance:testacases.TC_001_GET_Users@2e55dd0c]" started-at="2021-01-04T17:25:45Z" name="GET_All_Users" finished-at="2021-01-04T17:25:47Z" duration-ms="1936" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- GET_All_Users -->
+        <test-method signature="POST_An_User()[pri:2, instance:testacases.TC_001_GET_Users@2e55dd0c]" started-at="2021-01-04T17:25:47Z" name="POST_An_User" finished-at="2021-01-04T17:25:48Z" duration-ms="1122" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- POST_An_User -->
+        <test-method signature="DELETE_books()[pri:3, instance:testacases.TC_001_GET_Users@2e55dd0c]" started-at="2021-01-04T17:25:48Z" name="DELETE_books" finished-at="2021-01-04T17:25:49Z" duration-ms="881" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- DELETE_books -->
+      </class> <!-- testacases.TC_001_GET_Users -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
